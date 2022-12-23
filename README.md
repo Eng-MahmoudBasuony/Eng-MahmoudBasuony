@@ -9,7 +9,7 @@
  I do my best to stay on top of changes in   the state of the art so that I can meet challenges with tools well suited to the job at hand.
  
  * 🔭 I’m currently working on 
-   - Client Flutter mobile apps
+   - Client Flutter mobile apps 
    - Open source Flutter projects 
    - Lots of half-finished side projects 👀 (Guilty!)
   
@@ -22,6 +22,6 @@
 * 📫 How to reach me:
   * Email: mbasuony83@gmail.com
   * [Twitter](https://twitter.com/mbasuony83)
-  * [LinkedIn](www.linkedin.com/in/mahmoud-basuony83-a2b30214a)
+  * [LinkedIn](https://linkedin.com/in/mahmoud-basuony83-a2b30214a)
 
 

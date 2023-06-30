@@ -265,7 +265,7 @@
  <td>
      <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
 	   <div>
-	<a href=https://play.google.com/store/apps/details?id=basuony.select.maintenance.manager.maintenance_manager_technician"&hl=en&gl=US">
+	<a href=https://play.google.com/store/apps/details?id=basuony.select.maintenance.manager.maintenance_manager_technician>
        <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
        alt="Basuony on Google Play" /> </a>      
 	  </div>

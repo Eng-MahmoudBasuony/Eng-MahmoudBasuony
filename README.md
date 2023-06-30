@@ -49,20 +49,20 @@
  <td>
      <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
 	    <div>
-				<a href="https://play.google.com/store/apps/details?id=net.smartangle.arto&hl=en&gl=US">
+	<a href="https://play.google.com/store/apps/details?id=net.smartangle.arto&hl=en&gl=US">
        <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
        alt="Basuony on Google Play" /> </a>      
 			</div>
   <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-	    <div>
-				<a href="https://play.google.com/store/apps/details?id=net.smartangle.arto&hl=en&gl=US">
-       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
-       alt="Basuony on Google Play" /> </a>      
-			</div>
+   <div>
+      <a href="https://apps.apple.com/eg/app/arto-%D8%A7%D8%B1%D8%AA%D9%88/id1608210325">
+      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
+        alt="Basuony on iOS App Store" /></a>   
+  </div>
 
    <div>
 		🔗 <a href="https://manarati.app/en">Website </a>
-	</div>
+  </div>
  
 </td>
 	</tbody>

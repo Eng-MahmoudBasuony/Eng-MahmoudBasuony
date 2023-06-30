@@ -69,6 +69,38 @@
 	 
 </tr>
 
+  <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 2RW 1FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
+ <tr>
+     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
+  <!-- ⬅️  cell left -->
+ <td>
+	  <h3> Awafi Team  | فريق عوافي </h3>
+	  <p>Awafi Team App (Teams, indicates to the service provider), Allows Hospitals, Doctors, Home Care, Medical Suppliers, and personal 
+             care to provide their services to the end-user.
+	  </p>
+  </td>
+ <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
+  <!-- ➡️ cell Right ➡-->
+ <td>
+     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
+	   <div>
+	<a href="https://play.google.com/store/apps/details?id=com.select.awafi_doctor&hl=en&gl=US">
+       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
+       alt="Basuony on Google Play" /> </a>      
+	  </div>
+  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
+   <div>
+      <a href="https://apps.apple.com/om/app/awafi-team/id1558345182">
+      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
+        alt="Basuony on iOS App Store" /></a>   
+  </div>
+ <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
+   <div>
+	🔗 <a href="https://awafi.sa/ar/">Website</a>
+  </div>
+ </td>
+	 
+</tr>
   
 </tbody>
 </table>

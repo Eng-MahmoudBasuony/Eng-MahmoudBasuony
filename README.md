@@ -76,7 +76,7 @@
  <td>
 	  <h3> Awafi Team  | فريق عوافي </h3>
 	  <p>Awafi Team App (Teams, indicates to the service provider), Allows Hospitals, Doctors, Home Care, Medical Suppliers, and personal 
-             care to provide their services to the end-user.
+             care to provide their services to the end-user...
 	  </p>
   </td>
  <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
@@ -110,8 +110,8 @@
   <!-- ⬅️  cell left -->
  <td>
 	  <h3> Awafi  | عوافي </h3>
-	  <p>Awafi Team App (Teams, indicates to the service provider), Allows Hospitals, Doctors, Home Care, Medical Suppliers, and personal 
-             care to provide their services to the end-user.
+	  <p>The Awafi App provides you with multiple options in different health facilities. You can choose the required service, 
+             request it, set the appropriate time for you and deliver you at your place without the need to wait or go to the health facility...
 	  </p>
   </td>
  <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->

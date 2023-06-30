@@ -213,6 +213,42 @@
 	 
 </tr>
 
+
+
+  <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 7RW 7FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
+ <tr>
+     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
+  <!-- ⬅️  cell left -->
+ <td>
+	  <h3>  Athmany KDS </h3>
+	  <p> Athmany KDS (Kitchen Display System) in your cafe or restaurant to inform cooking staff what to prepare from an order. Athmany 
+             KDS communicates directly with Athmany POS and displays all orders information: items, quantity, and notes.
+          </p>
+  </td>
+ <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
+  <!-- ➡️ cell Right ➡-->
+ <td>
+     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
+	   <div>
+	<a href="https://play.google.com/store/apps/details?id=com.athmanytec.alqimma.app&hl=en&gl=US">
+       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
+       alt="Basuony on Google Play" /> </a>      
+	  </div>
+  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
+   <div>
+      <a href="https://apps.apple.com/sa/app/athmanytec-kds/id1609978503">
+      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
+        alt="Basuony on iOS App Store" /></a>   
+	
+  </div>
+ <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
+      <div>
+	🔗 <a href="https://athmanytec.com/">Website</a>
+  </div>
+ </td>
+	 
+</tr>
+
   
 </tbody>
 </table>

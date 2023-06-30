@@ -175,6 +175,44 @@
 	 
 </tr>
 
+
+
+  <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 5RW 5FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
+ <tr>
+     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
+  <!-- ⬅️  cell left -->
+ <td>
+	  <h3>  Athmany POS | اثماني </h3>
+	  <p> Othmani Tech POS is a POS point of sale application that is directly linked with the main accounting program Othmani Tech ERP, 
+              and is approved by the Zakat, Tax and Customs Authority.
+              It is directed to the retail sector, in particular restaurants, cafes (coffee shops), and food carts.
+              Main features See Store description...
+	  </p>
+  </td>
+ <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
+  <!-- ➡️ cell Right ➡-->
+ <td>
+     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
+	   <div>
+	<a href="https://play.google.com/store/apps/details?id=com.athmanytec.alqimma.app&hl=en&gl=US">
+       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
+       alt="Basuony on Google Play" /> </a>      
+	  </div>
+  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
+   <div>
+      <a href="https://apps.apple.com/sa/app/%D8%A7%D9%94%D8%AB%D9%85%D8%A7%D9%86%D9%8A-%D8%AA%D9%83-athmanytec/id1583755282">
+      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
+        alt="Basuony on iOS App Store" /></a>   
+	
+  </div>
+ <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
+   <!--    <div>
+	🔗 <a href="https://awafi.sa/ar/">Website</a>
+  </div> -->
+ </td>
+	 
+</tr>
+
   
 </tbody>
 </table>

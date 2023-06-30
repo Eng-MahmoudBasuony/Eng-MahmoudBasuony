@@ -206,9 +206,9 @@
 	
   </div>
  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <!--    <div>
-	🔗 <a href="https://awafi.sa/ar/">Website</a>
-  </div> -->
+      <div>
+	🔗 <a href="https://athmanytec.com/">Website</a>
+  </div>
  </td>
 	 
 </tr>

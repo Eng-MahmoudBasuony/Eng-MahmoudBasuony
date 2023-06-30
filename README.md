@@ -31,21 +31,23 @@
 
 <table>
 	<tbody width="100%">
-	<tr>
+ <tr>
 		<th>Project</th>	
 		<th>Links</th>
 	</tr>
   <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 1RW 1FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
-	<tr>
-     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Description 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-		<td>
-			<h3>Arto | ارت‪و‬</h3>
+ <tr>
+     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
+  <!-- ⬅️  cell left -->
+ <td>
+		<h3>Arto | ارت‪و‬</h3>
 			<p>We at Arto specialize in providing a range of services (model - photography - drawing - appearance experts - design...)
-         We are working to provide a number of carefully selected service providers to enhance the quality of service
+                            We are working to provide a number of carefully selected service providers to enhance the quality of service
                       <!--  <a href="https://arto.sa">Arto</a></p> -->
-                      <!-- 			<p>🗓 March 2022 - June 2022 (~4 months)</p> -->
-		</td>
+                      <!-- <p>🗓 March 2022 - June 2022 (~4 months)</p> -->
+ </td>
  <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
+  <!-- ➡️ cell Right ➡-->
  <td>
      <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
 	   <div>
@@ -61,10 +63,13 @@
   </div>
  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
    <div>
-		🔗 <a href="https://arto.sa/en">Website </a>
+	🔗 <a href="https://arto.sa/en">Website </a>
   </div>
- 
-</td>
-	</tbody>
+ </td>
+	 
+</tr>
+
+  
+</tbody>
 </table>
 

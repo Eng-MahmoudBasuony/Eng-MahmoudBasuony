@@ -1,361 +1,91 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=This+image+is+center-aligned&font=Fira%20Code&center=true&width=380&height=50](https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Roaa](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00B300&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Basuony"/></a>
-</p>
+<div align="center">
 
-<p> 
-I'm a Software Engineer specializing in Mobile App development, dedicated to creating user-friendly applications and contributing to open-source projects.
-I thrive on challenges that fuel my curiosity and provide opportunities for continuous learning ,
-Keeping up with the latest advancements in programming is my priority, allowing me to effectively tackle challenges and leverage the right tools ,
-I'm committed to delivering high-quality work and collaborating within team environments to achieve mutual success
-</p>
+# Hi, I'm Mahmoud Basuony 👋
 
- 
- * 🔭 I’m currently working on 
-   - Client Flutter mobile apps 
-   - Open source Flutter projects 
-   - Lots of half-finished side projects 👀 (Guilty!)
-  
-* 🌱 I’m currently learning 
-   - everything I can find about Flutter 💙,
-   - native apps for Android and iOS .
-   -  the learning never stops!
-   
-* 💬 Ask me about anything Flutter 💙
-* 📫 How to reach me:
-  * Email: mbasuony83@gmail.com
-  * [Twitter](https://twitter.com/mbasuony83)
-  * [LinkedIn](https://linkedin.com/in/mahmoud-basuony83-a2b30214a)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0175C2&center=true&vCenter=true&width=720&lines=Senior+Flutter+%26+Android+Engineer;Mobile+Team+Lead;Building+scalable+mobile+experiences;Open-Source+Contributor)](https://git.io/typing-svg)
 
+I build scalable, maintainable mobile products and help engineering teams turn complex requirements into reliable user experiences.
+
+[![Email](https://img.shields.io/badge/Email-mbasuony83%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mbasuony83@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Basuony-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-basuony83-a2b30214a)
+[![X](https://img.shields.io/badge/X-@mbasuony83-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mbasuony83)
+[![GitHub](https://img.shields.io/badge/GitHub-Eng--MahmoudBasuony-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Eng-MahmoudBasuony)
+
+</div>
 
 ---
 
-## Client Projects And Apps on The Stores
+## About Me
 
-<table>
-	<tbody width="100%">
- <tr>
-		<th>Project</th>	
-		<th>Links</th>
-	</tr>
-  <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 1RW 1FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
- <tr>
-     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
-  <!-- ⬅️  cell left -->
- <td>
-		<h3>Arto | ارت‪و‬</h3>
-			<p>We at Arto specialize in providing a range of services (model - photography - drawing - appearance experts - design...)
-                            We are working to provide a number of carefully selected service providers to enhance the quality of service
-                      <!--  <a href="https://arto.sa">Arto</a></p> -->
-                      <!-- <p>🗓 March 2022 - June 2022 (~4 months)</p> -->
- </td>
- <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
-  <!-- ➡️ cell Right ➡-->
- <td>
-     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-	   <div>
-	<a href="https://play.google.com/store/apps/details?id=net.smartangle.arto&hl=en&gl=US">
-       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
-       alt="Basuony on Google Play" /> </a>      
-	  </div>
-  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <div>
-      <a href="https://apps.apple.com/eg/app/arto-%D8%A7%D8%B1%D8%AA%D9%88/id1608210325">
-      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
-        alt="Basuony on iOS App Store" /></a>   
-  </div>
- <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <div>
-	🔗 <a href="https://arto.sa/en">Website </a>
-  </div>
- </td>
-	 
-</tr>
+- Senior Flutter and Android Engineer with a strong focus on architecture, performance, and maintainability.
+- Mobile Team Lead experienced in technical planning, code reviews, mentoring, and shipping production applications.
+- Building cross-platform products with Flutter while keeping close to the native Android and iOS ecosystems.
+- Interested in modular architecture, offline-first experiences, developer tooling, and open-source software.
+- Always learning — and usually building more than one side project at a time.
 
-  <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 2RW 2FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
- <tr>
-     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
-  <!-- ⬅️  cell left -->
- <td>
-	  <h3> Awafi Team  | فريق عوافي </h3>
-	  <p>Awafi Team App (Teams, indicates to the service provider), Allows Hospitals, Doctors, Home Care, Medical Suppliers, and personal 
-             care to provide their services to the end-user...
-	  </p>
-  </td>
- <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
-  <!-- ➡️ cell Right ➡-->
- <td>
-     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-	   <div>
-	<a href="https://play.google.com/store/apps/details?id=com.select.awafi_doctor&hl=en&gl=US">
-       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
-       alt="Basuony on Google Play" /> </a>      
-	  </div>
-  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <div>
-      <a href="https://apps.apple.com/om/app/awafi-team/id1558345182">
-      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
-        alt="Basuony on iOS App Store" /></a>   
-  </div>
- <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <div>
-	🔗 <a href="https://awafi.sa/ar/">Website</a>
-  </div>
- </td>
-	 
-</tr>
+---
 
+## 📦 Open-Source Packages
 
+| Package | Description | Links |
+| :--- | :--- | :---: |
+| **x_validators** | Extensible, dependency-free validation rules for Flutter forms and Dart applications. | [![pub.dev](https://img.shields.io/pub/v/x_validators?label=pub&logo=dart&logoColor=white&color=0175C2)](https://pub.dev/packages/x_validators)<br>[![GitHub](https://img.shields.io/badge/GitHub-repo-181717?logo=github&logoColor=white)](https://github.com/Eng-MahmoudBasuony/x_validators) |
 
-  <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 3RW 3FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
- <tr>
-     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
-  <!-- ⬅️  cell left -->
- <td>
-	  <h3> Awafi  | عوافي </h3>
-	  <p>The Awafi App provides you with multiple options in different health facilities. You can choose the required service, 
-             request it, set the appropriate time for you and deliver you at your place without the need to wait or go to the health facility...
-	  </p>
-  </td>
- <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
-  <!-- ➡️ cell Right ➡-->
- <td>
-     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-	   <div>
-	<a href="https://play.google.com/store/apps/details?id=com.select.awafi&hl=en&gl=US">
-       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
-       alt="Basuony on Google Play" /> </a>      
-	  </div>
-  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <div>
-      <a href="https://apps.apple.com/sa/app/awafi/id1561465340">
-      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
-        alt="Basuony on iOS App Store" /></a>   
-  </div>
- <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <div>
-	🔗 <a href="https://awafi.sa/ar/">Website</a>
-  </div>
- </td>
-	 
-</tr>
+---
 
+## Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,firebase,git,github,figma" alt="Flutter, Dart, Kotlin, Android Studio, Swift, Firebase, Git, GitHub and Figma" />
+</p>
 
-  <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 4RW 4FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
- <tr>
-     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
-  <!-- ⬅️  cell left -->
- <td>
-	  <h3> itehad  | اتحاد الشاغلين </h3>
-	  <p> A Itehad App that contains a system whose goal is to record the expenses and revenues of the union and the rest of the 
-             union amount and to reveal the balance paid to each member of the union who represent the occupants of the units, also to send 
-             notifications to the members of the union, It contains any union or member alerts and cash receipts for members...
-	  </p>
-  </td>
- <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
-  <!-- ➡️ cell Right ➡-->
- <td>
-     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-	   <div>
-	<a href="https://play.google.com/store/apps/details?id=select.itehad.cross.app&hl=en&gl=US">
-       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
-       alt="Basuony on Google Play" /> </a>      
-	  </div>
-  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <div>
-      <a href="">
-	         <h6>IOS In TestFlight‬</h6>
-      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
-        alt="Basuony on iOS App Store" /></a>   
-	
-  </div>
- <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <!--    <div>
-	🔗 <a href="https://awafi.sa/ar/">Website</a>
-  </div> -->
- </td>
-	 
-</tr>
+| Area | Technologies |
+| :--- | :--- |
+| **Mobile** | Flutter, Dart, Android, Kotlin, Swift and iOS integration |
+| **Architecture** | Modular architecture, Clean Architecture, BLoC/Cubit, GetX and dependency injection |
+| **Data & Networking** | REST APIs, WebSockets, local persistence, caching and offline-first workflows |
+| **Delivery** | GitHub Actions, Fastlane, Firebase, Google Play and App Store release workflows |
+| **Leadership** | Technical planning, code reviews, mentoring, documentation and team enablement |
 
+---
 
+## Selected Client Projects
 
-  <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 5RW 5FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
- <tr>
-     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
-  <!-- ⬅️  cell left -->
- <td>
-	  <h3>  Athmany POS | اثماني </h3>
-	  <p> Othmani Tech POS is a POS point of sale application that is directly linked with the main accounting program Othmani Tech ERP, 
-              and is approved by the Zakat, Tax and Customs Authority.
-              It is directed to the retail sector, in particular restaurants, cafes (coffee shops), and food carts.
-              Main features See Store description...
-	  </p>
-  </td>
- <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
-  <!-- ➡️ cell Right ➡-->
- <td>
-     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-	   <div>
-	<a href="https://play.google.com/store/apps/details?id=com.athmanytec.alqimma.app&hl=en&gl=US">
-       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
-       alt="Basuony on Google Play" /> </a>      
-	  </div>
-  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <div>
-      <a href="https://apps.apple.com/sa/app/%D8%A7%D9%94%D8%AB%D9%85%D8%A7%D9%86%D9%8A-%D8%AA%D9%83-athmanytec/id1583755282">
-      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
-        alt="Basuony on iOS App Store" /></a>   
-	
-  </div>
- <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-      <div>
-	🔗 <a href="https://athmanytec.com/">Website</a>
-  </div>
- </td>
-	 
-</tr>
+| Project | What It Does | Links |
+| :--- | :--- | :---: |
+| **60IX** | An all-in-one platform for pet, horse and bird owners, combining trusted services, exclusive deals, a social community, chat, rescue and adoption. | [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sixty.ix.sixty_ix)<br>[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/60ix/id6749853854) |
+| **iX HR Employee** | A secure employee self-service platform for attendance, leave and HR requests, approvals, notifications, employee statistics and profile management. | [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ix.hr.employee.mobile.hr_employee_mobile)<br>[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/ar/app/ix-hr/id6794821308) |
+| **Arto · أرتو** | Marketplace connecting clients with models, photographers, designers and creative service providers. | [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=net.smartangle.arto)<br>[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/arto-%D8%A7%D8%B1%D8%AA%D9%88/id1608210325)<br>[![Website](https://img.shields.io/badge/Website-arto.sa-0175C2?logo=safari&logoColor=white)](https://arto.sa/en) |
+| **Awafi Team · فريق عوافي** | A healthcare provider application for hospitals, doctors, home-care teams and medical suppliers. | [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.select.awafi_doctor)<br>[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/om/app/awafi-team/id1558345182)<br>[![Website](https://img.shields.io/badge/Website-awafi.sa-0175C2?logo=safari&logoColor=white)](https://awafi.sa/ar/) |
+| **Awafi · عوافي** | A healthcare marketplace for discovering, scheduling and requesting medical services. | [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.select.awafi)<br>[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/sa/app/awafi/id1561465340)<br>[![Website](https://img.shields.io/badge/Website-awafi.sa-0175C2?logo=safari&logoColor=white)](https://awafi.sa/ar/) |
+| **Itehad · اتحاد الشاغلين** | Property-union finance, receipts, member balances, announcements and notification management. | [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=select.itehad.cross.app) |
+| **Athmany POS · أثماني** | ZATCA-compliant point-of-sale experience for restaurants, cafés, food carts and retailers. | [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.athmanytec.alqimma.app)<br>[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/sa/app/%D8%A7%D9%94%D8%AB%D9%85%D8%A7%D9%86%D9%8A-%D8%AA%D9%83-athmanytec/id1583755282)<br>[![Website](https://img.shields.io/badge/Website-athmanytec.com-0175C2?logo=safari&logoColor=white)](https://athmanytec.com/) |
+| **Athmany KDS** | Kitchen display system that receives live order details, quantities and preparation notes from Athmany POS. | [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/sa/app/athmanytec-kds/id1609978503)<br>[![Website](https://img.shields.io/badge/Website-athmanytec.com-0175C2?logo=safari&logoColor=white)](https://athmanytec.com/) |
+| **Maintenance Manager · مدير الصيانة** | Connects customers with qualified technicians for home maintenance and repair services. | [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=manager.maintenance.basuony.select.maintenance_manager) |
+| **Maintenance Manager SP** | Service-provider companion application for managing maintenance requests and field work. | [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=basuony.select.maintenance.manager.maintenance_manager_technician) |
+| **PIM** | A personal interview manager for recording meetings and reviewing their details and timelines. | [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=mbasuony.cross.app.free.flutterapp.wim) |
 
+> The projects above are a selection of my publicly available work. I have also contributed to government and enterprise projects that are not listed here due to client confidentiality and contractual restrictions.
 
+---
 
-  <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 7RW 7FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
- <tr>
-     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
-  <!-- ⬅️  cell left -->
- <td>
-	  <h3>  Athmany KDS </h3>
-	  <p> Athmany KDS (Kitchen Display System) in your cafe or restaurant to inform cooking staff what to prepare from an order. Athmany 
-             KDS communicates directly with Athmany POS and displays all orders information: items, quantity, and notes.
-          </p>
-  </td>
- <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
-  <!-- ➡️ cell Right ➡-->
- <td>
-     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-	   <div>
-	<a href="https://play.google.com/store/apps/details?id=com.athmanytec.alqimma.app&hl=en&gl=US">
-       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
-       alt="Basuony on Google Play" /> </a>      
-	  </div>
-  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-   <div>
-      <a href="https://apps.apple.com/sa/app/athmanytec-kds/id1609978503">
-      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
-        alt="Basuony on iOS App Store" /></a>   
-	
-  </div>
- <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-      <div>
-	🔗 <a href="https://athmanytec.com/">Website</a>
-  </div>
- </td>
-	 
-</tr>
+## GitHub at a Glance
 
+<p align="center">
+  <a href="https://github.com/Eng-MahmoudBasuony?tab=followers"><img src="https://img.shields.io/github/followers/Eng-MahmoudBasuony?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/Eng-MahmoudBasuony?tab=repositories"><img src="https://img.shields.io/github/stars/Eng-MahmoudBasuony?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars" alt="Total GitHub stars" /></a>
+  <a href="https://github.com/Eng-MahmoudBasuony/x_validators"><img src="https://img.shields.io/github/last-commit/Eng-MahmoudBasuony/x_validators?style=for-the-badge&logo=github&label=Latest%20Package%20Update" alt="Latest x_validators update" /></a>
+</p>
 
- <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 8RW 8FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
- <tr>
-     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
-  <!-- ⬅️  cell left -->
- <td>
-	  <h3> M Manager SP </h3>
-	  <p> Maintenance Manager app is the best way to complete all your home chores! If you are looking for a highly skilled technician, 
-              electrician or plumber to solve electrical or plumbing problems...
-          </p>
-  </td>
- <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
-  <!-- ➡️ cell Right ➡-->
- <td>
-     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-	   <div>
-	<a href=https://play.google.com/store/apps/details?id=basuony.select.maintenance.manager.maintenance_manager_technician>
-       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
-       alt="Basuony on Google Play" /> </a>      
-	  </div>
-  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-<!--    <div>
-      <a href="https://apps.apple.com/sa/app/athmanytec-kds/id1609978503">
-      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
-        alt="Basuony on iOS App Store" /></a>   
-	
-  </div> -->
- <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-<!-- <div>
-	🔗 <a href="https://athmanytec.com/">Website</a>
-  </div> -->
- </td>
-	 
-</tr>
+---
 
+<div align="center">
 
+### Let's Build Something Valuable
 
- <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 8RW 8FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
- <tr>
-     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
-  <!-- ⬅️  cell left -->
- <td>
-	  <h3> M Manager | مدير الصيانة </h3>
-	  <p> Maintenance Manager app is the best way to complete all your home chores! If you are looking for a highly skilled technician, 
-              electrician or plumber to solve electrical or plumbing problems...
-          </p>
-  </td>
- <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
-  <!-- ➡️ cell Right ➡-->
- <td>
-     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-	   <div>
-	<a href=https://play.google.com/store/apps/details?id=manager.maintenance.basuony.select.maintenance_manager>
-       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
-       alt="Basuony on Google Play" /> </a>      
-	  </div>
-  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-<!--    <div>
-      <a href="https://apps.apple.com/sa/app/athmanytec-kds/id1609978503">
-      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
-        alt="Basuony on iOS App Store" /></a>   
-	
-  </div> -->
- <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-<!-- <div>
-	🔗 <a href="https://athmanytec.com/">Website</a>
-  </div> -->
- </td>
-	 
-</tr>
+I'm open to senior mobile engineering, technical leadership, open-source collaboration and product-focused opportunities.
 
- <!-- 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱 8RW 8FProject 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱-->
- <tr>
-     <!-- 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 Text Description 📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜 -->
-  <!-- ⬅️  cell left -->
- <td>
-	  <h3> PIM </h3>
-	  <p> The PIM application, on the face of it, is an application for recording people’s interviews with each other in an easy way, so 
-              that anyone can refer to the list of their interviews and see each interview with its details and timing.
-          </p>
-  </td>
- <!-- 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 Link Apps 📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡📡 -->
-  <!-- ➡️ cell Right ➡-->
- <td>
-     <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Google play  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-	   <div>
-	<a href=https://play.google.com/store/apps/details?id=mbasuony.cross.app.free.flutterapp.wim&hl=en&gl=US>
-       <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" 
-       alt="Basuony on Google Play" /> </a>      
-	  </div>
-  <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Apple Store  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-<!--    <div>
-      <a href="https://apps.apple.com/sa/app/athmanytec-kds/id1609978503">
-      <img width="400px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" 
-        alt="Basuony on iOS App Store" /></a>   
-	
-  </div> -->
- <!-- 🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 Link Website  🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍 -->
-<!-- <div>
-	🔗 <a href="https://athmanytec.com/">Website</a>
-  </div> -->
- </td>
-	 
-</tr>
-  
-</tbody>
-</table>
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbasuony83@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-basuony83-a2b30214a)
 
+</div>

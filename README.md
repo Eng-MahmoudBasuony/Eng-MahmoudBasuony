@@ -7,7 +7,7 @@
 I build scalable, maintainable mobile products and help engineering teams turn complex requirements into reliable user experiences.
 
 [![Email](https://img.shields.io/badge/Email-mbasuony83%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mbasuony83@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Basuony-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-basuony83-a2b30214a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Basuony-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbasuony94)
 [![X](https://img.shields.io/badge/X-@mbasuony83-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mbasuony83)
 [![GitHub](https://img.shields.io/badge/GitHub-Eng--MahmoudBasuony-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Eng-MahmoudBasuony)
 
@@ -36,7 +36,8 @@ I build scalable, maintainable mobile products and help engineering teams turn c
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,firebase,git,github,figma" alt="Flutter, Dart, Kotlin, Android Studio, Swift, Firebase, Git, GitHub and Figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,firebase,git,github,figma,notion,stackoverflow" alt="Flutter, Dart, Kotlin, Android Studio, Swift, Firebase, Git, GitHub, Figma, Notion and Stack Overflow" />
+  <a href="https://www.apple.com/final-cut-pro/"><img width="48" height="48" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/95/ff/9d95ff81-dd3d-9075-149f-c6e2a4773ca0/AppIcon-0-85-220-0-6-0-0-2x-sRGB-0-0.png/128x128bb.png" alt="Final Cut Pro" title="Final Cut Pro" /></a>
 </p>
 
 | Area | Technologies |
@@ -45,6 +46,7 @@ I build scalable, maintainable mobile products and help engineering teams turn c
 | **Architecture** | Modular architecture, Clean Architecture, BLoC/Cubit, GetX and dependency injection |
 | **Data & Networking** | REST APIs, WebSockets, local persistence, caching and offline-first workflows |
 | **Delivery** | GitHub Actions, Fastlane, Firebase, Google Play and App Store release workflows |
+| **Creative & Collaboration** | Figma, Notion, Final Cut Pro and Stack Overflow |
 | **Leadership** | Technical planning, code reviews, mentoring, documentation and team enablement |
 
 ---
@@ -86,6 +88,6 @@ I build scalable, maintainable mobile products and help engineering teams turn c
 I'm open to senior mobile engineering, technical leadership, open-source collaboration and product-focused opportunities.
 
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbasuony83@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-basuony83-a2b30214a)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbasuony94)
 
 </div>

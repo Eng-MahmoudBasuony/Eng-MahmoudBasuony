@@ -33,16 +33,39 @@ I build scalable, maintainable mobile products and help engineering teams turn c
 
 ---
 
+## 🚀 Featured Projects
+
+### MarkSpace — Free Chrome Extension
+
+A free browser extension I built to organize bookmarks and personalize the new-tab experience, with Arabic and English support.
+
+- Organize bookmarks, folders, and quick-access links.
+- Customize backgrounds, themes, and workspace preferences.
+- Sync bookmarks and settings across devices through Google Drive, including additions, edits, and deletions.
+- Use locally without signing in, with optional cloud sync.
+
+**Built with:** TypeScript · React · WXT · Chrome Extensions Manifest V3 · Zustand · Google Drive API
+
+**Testing:** Vitest · Playwright
+
+**Sync engine:** Integrates Floccus’s open-source bookmark reconciliation algorithm, with a dedicated layer for MarkSpace backgrounds and settings.
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Install_Free-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/markspace/hchbjfgdblmjefgmemealomnbmpnleoa)
+
+---
+
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,firebase,git,github,figma,notion,stackoverflow" alt="Flutter, Dart, Kotlin, Android Studio, Swift, Firebase, Git, GitHub, Figma, Notion and Stack Overflow" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,ts,react,firebase,git,github,figma,notion,stackoverflow" alt="Flutter, Dart, Kotlin, Android Studio, Swift, TypeScript, React, Firebase, Git, GitHub, Figma, Notion and Stack Overflow" />
   <a href="https://www.apple.com/final-cut-pro/"><img width="48" height="48" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/95/ff/9d95ff81-dd3d-9075-149f-c6e2a4773ca0/AppIcon-0-85-220-0-6-0-0-2x-sRGB-0-0.png/128x128bb.png" alt="Final Cut Pro" title="Final Cut Pro" /></a>
 </p>
 
 | Area | Technologies |
 | :--- | :--- |
 | **Mobile** | Flutter, Dart, Android, Kotlin, Swift and iOS integration |
+| **Web & Browser Extensions** | TypeScript, React, WXT, Chrome Extensions APIs and Zustand |
+| **Testing** | Vitest and Playwright |
 | **Architecture** | Modular architecture, Clean Architecture, BLoC/Cubit, GetX and dependency injection |
 | **Data & Networking** | REST APIs, WebSockets, local persistence, caching and offline-first workflows |
 | **Delivery** | GitHub Actions, Fastlane, Firebase, Google Play and App Store release workflows |

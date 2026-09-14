@@ -35,6 +35,10 @@ I build scalable, maintainable mobile products and help engineering teams turn c
 
 ## 🚀 Featured Projects
 
+<a href="https://chromewebstore.google.com/detail/markspace/hchbjfgdblmjefgmemealomnbmpnleoa">
+  <img src="https://lh3.googleusercontent.com/9DlGqsOEQOJSoNMfcGPcc7b_yHYCeg0IpMbo_7cGl1LVbKRvVqEa_4YgATr2ut8Q68oU5dL-NmxCIXbbwJj_VG6HSks=s128" width="96" height="96" alt="MarkSpace logo" />
+</a>
+
 ### MarkSpace — Free Chrome Extension
 
 A free browser extension I built to organize bookmarks and personalize the new-tab experience, with Arabic and English support.
